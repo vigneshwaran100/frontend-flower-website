@@ -45,6 +45,8 @@ section div{
     width: 300px;
     height: 300px;
     display: inline-block;
+    margin-left: 50px;
+
 }
 section img{
     width: 150px;
